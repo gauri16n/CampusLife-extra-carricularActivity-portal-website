@@ -1,4 +1,4 @@
-# CampusLife-extra-carricularActivity-portal-website
+
 # CampusLife - College Extracurricular Hub
 
 A comprehensive web application for college students to explore and engage with extracurricular activities, including events, clubs, sports, workshops, and more. This project features a dynamic frontend with a robust backend API.
